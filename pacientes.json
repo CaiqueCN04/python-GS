@@ -1,10 +1,14 @@
 [
   {
     "cpf": "55841719807",
-    "nome": "caique",
-    "email": "cchagas04",
-    "senha": "123",
+    "nome": "Caique",
+    "email": "cchagas@",
+    "senha": "12345678",
     "cep": "05716090",
+    "UF": "SP",
+    "Munic�pio": "São Paulo",
+    "Bairro": "Vila Andrade",
+    "Rua": "Rua Itapimirum",
     "numero": "915",
     "complemento": "172A"
   }
